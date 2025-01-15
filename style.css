@@ -1,0 +1,23 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    background-color: rgb(255, 255, 255)
+}
+
+
+.create{
+    display: flex;
+}
+
+
+.box{
+  background-color: rgb(255, 255, 255);
+  width: 300px;
+  border: 1px solid rgb(255, 255, 255);
+  padding: 50px;
+  margin: 100px;
+}
+
